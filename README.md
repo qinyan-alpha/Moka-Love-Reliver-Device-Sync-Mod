@@ -1,4 +1,4 @@
-# HypnoApp2 Device Sync Mod
+# Moka Love Relive Device Sync Mod
 
 A DLL hook mod for **Moka Love Relive** that synchronizes supported external devices with in-game motion and state.
 
