@@ -4,7 +4,7 @@ A DLL hook mod for **Moka Love Relive** that synchronizes supported external dev
 
 For details, updates, and discussion, please see the EroScripts release thread:
 
-https://discuss.eroscripts.com/t/hypnoapp2-device-sync-mod/318924
+[https://discuss.eroscripts.com/t/hypnoapp2-device-sync-mod/318924](https://discuss.eroscripts.com/t/moka-love-relive-device-sync-mod/337006/7)
 
 ## Supported Devices
 
